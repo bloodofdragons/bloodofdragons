@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rajat Shahi
-- An active competitive programmer. ( C++ is my weapon.)
+- An active competitive programmer. ( C++ is my language.)
 - 👀 I’m interested in Data structures and algorithms, Competitive programming , Mathematics and Web development.
-- 🌱 I’m currently learning HTML,CSS, Combinatorics and Number theory.
 - 📫 You can reach to me at bloodofdragons24@gmail.com
 
 <!---
