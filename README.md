@@ -13,7 +13,6 @@
 <a href="https://codeforces.com/profile/blood_of_dragons"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/bloodofdragons"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://leetcode.com/bloodofdragons24/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-</p1>
   
 <a href="https://www.hackerrank.com/blood_of_dragons"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   
