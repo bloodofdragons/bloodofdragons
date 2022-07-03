@@ -4,7 +4,7 @@
 - 📫 You can reach to me at bloodofdragons24@gmail.com
 
 ### Rajat Shahi (blood_of_dragons)
-[![Rajat Shahi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRajat)](https://atcoder.jp/users/blood_of_dragons)
+[![Rajat Shahi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRajat)](https://https://atcoder.jp/users/blood_of_dragons)
 [![Rajat Shahi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FRajat)](https://codeforces.com/profile/blood_of_dragons) <br>
 The wheels just keeps on turning !! The drummers begin to drum !!
 <p align="center"> 
