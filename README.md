@@ -16,9 +16,14 @@ The wheels just keeps on turning !! The drummers begin to drum !!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodofdragons&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Competitive-programming-library)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Competitive-programming-library&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Competitive-programming-library&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=CP-contests-and-problems&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Geocoding-Project-using-Python&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
