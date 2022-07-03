@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Rajat Shahi <br/></h2> 
 
-<p align="center"><a href="#"><img width=50% src="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE"></a></p>
+<p align="center"><a href="#"><img width=50% src="pikachu.webp"></a></p>
 
 
 
