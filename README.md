@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Rajat Shahi
-- An active competitive programmer. ( C++ is my language.)
-- 👀 I’m interested in Data structures and algorithms, Competitive programming , Mathematics and Web development.
-- 📫 You can reach to me at bloodofdragons24@gmail.com
+<h2 align="center"> Hi, I'm Rajat Shahi <br/></h2> 
+
+<p align="center"><a href="#"><img width=50% src="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE"></a></p>
+
+
 
 ### Rajat Shahi (blood_of_dragons)
 [![Rajat Shahi](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FRajat)](https://atcoder.jp/users/blood_of_dragons)
