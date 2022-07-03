@@ -16,10 +16,9 @@
 
 <br />
 <a href="https://www.hackerrank.com/blood_of_dragons"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  
+<br />
 <a href="https://twitter.com/KnowmY__name"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<br />
 <a href="mailto:bloodofdragons24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCHFeD-HgaGRKRuzvC_-zw3g"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="https://medium.com/@bloodofdragons24"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
