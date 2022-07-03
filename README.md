@@ -12,7 +12,7 @@ The wheels just keeps on turning !! The drummers begin to drum !!
   <img src="https://profile-counter.glitch.me/Rajat/count.svg" />
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MtSaka&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!---
 bloodofdragons/bloodofdragons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
