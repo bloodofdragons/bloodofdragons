@@ -14,7 +14,6 @@ The wheels just keeps on turning !! The drummers begin to drum !!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodofdragons&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodofdragons&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodofdragons&show_icons=true&theme=tokyonight)
 
 
