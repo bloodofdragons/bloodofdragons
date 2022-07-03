@@ -18,6 +18,8 @@ The wheels just keeps on turning !! The drummers begin to drum !!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Competitive-programming-library)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodofdragons&repo=Competitive-programming-library&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
