@@ -14,6 +14,8 @@ The wheels just keeps on turning !! The drummers begin to drum !!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodofdragons&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodofdragons&count_private=true)
+
 <!---
 bloodofdragons/bloodofdragons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
